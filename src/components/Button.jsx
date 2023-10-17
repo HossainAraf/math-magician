@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 // COMPONENT
 const Button = ({ className, label, onClick }) => (
-  <button type='button' className={className} onClick={onClick}>{label}</button>
+  <button type="button" className={className} onClick={onClick}>{label}</button>
 );
 
 // PROPS VALIDATION
