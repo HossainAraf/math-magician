@@ -1,0 +1,32 @@
+#calculator-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  color: #fff;
+  padding: 10px;
+  margin: 5rem;
+}
+
+.dispaly {
+  grid-column: 1 / 5;
+  background-color: #858694;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: right;
+}
+
+.btn {
+  background-color: #e0e0e0;
+  border: 1px solid #d7d7d7;
+  padding: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.btn-right {
+  background-color: #f5913e;
+}
+
+.zero {
+  grid-column: 1 / 3;
+}
