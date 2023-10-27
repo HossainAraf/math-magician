@@ -1,9 +1,22 @@
+.calculator {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100%;
+}
+
 #calculator-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  color: #fff;
   padding: 10px;
   height: 50%;
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 15%;
+  padding-right: 2%;
+  color: #572c09;
+  font-size: 2rem;
 }
 
 .dispaly {
