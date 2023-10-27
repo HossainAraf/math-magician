@@ -2,6 +2,18 @@ main {
   display: flex;
   flex-direction: column;
   align-self: center;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+h3 {
+  font-family: cursive;
+  font-size: 1.5rem;
+  color: rgb(174, 173, 173);
+  margin-top: 3%;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-top: 3%;
 }
