@@ -7,10 +7,11 @@
 }
 
 #display-quote h4 {
-  color: #e8dede;
+  color: #821010;
   font-family: cursive;
   padding-top: 1%;
   padding-bottom: 1%;
+  font-size: 1.5rem;
 }
 
 #display-quote p {
@@ -19,10 +20,12 @@
   margin-top: 1.5%;
   padding-top: 1%;
   padding-bottom: 1%;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 125%;
 }
 
 #display-quote #author {
   color: #463535;
+  font-size: 1rem;
+  font-weight: 700;
 }

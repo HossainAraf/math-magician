@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './display-quote.css';
 
 const QuoteComponent = () => {
   const [quote, setQuote] = useState(null);
