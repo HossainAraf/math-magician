@@ -2,7 +2,14 @@ import React from 'react';
 
 const Home = () => (
   <>
-    <h3>
+    <h3 style={{
+      padding: '20px 0',
+      lineHeight: '1.9em',
+      color: '#fff',
+      textAlign: 'center',
+      fontSize: '16px',
+    }}
+    >
       Welcome to our Page!
     </h3>
     <p>
