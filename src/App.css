@@ -1,6 +1,17 @@
+* {
+  margin: 0;
+}
+
+#logo {
+  margin-left: 3%;
+  margin-top: 3%;
+  width: 4%;
+}
+
 .App {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  flex-direction: column;
   justify-content: space-between;
-  text-align: center;
+  align-items: center;
+  padding: 3%;
 }

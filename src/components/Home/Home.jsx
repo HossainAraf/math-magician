@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home = () => (
-  <>
+  <main>
     <h3 style={{
       padding: '20px 0',
       lineHeight: '1.9em',
@@ -35,7 +35,7 @@ const Home = () => (
       Dive into the world of numbers and humor all in one place. Thank you for
       choosing Math Magicians for your daily mathematical needs and laughs.
     </p>
-  </>
+  </main>
 );
 
 export default Home;
