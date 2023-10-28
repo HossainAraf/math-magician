@@ -2,19 +2,23 @@
   display: flex;
   justify-content: space-between;
   margin: 3% 1%;
-  margin-top: 0.1%;
+  margin-right: 6rem;
+  margin-left: 1rem;
+  width: 100%;
 }
 
 h1 {
   color: rgb(174, 173, 173);
   font-family: cursive;
-  margin-right: 55rem;
+  margin-left: 2.5rem;
+  font-size: 2rem;
 }
 
 .nav .ul {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
+  margin-right: 6rem;
 }
 
 .nav .ul li {
