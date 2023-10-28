@@ -1,0 +1,31 @@
+#display-quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 13%;
+  padding-right: 13%;
+}
+
+#display-quote h4 {
+  color: #821010;
+  font-family: cursive;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: 1.5rem;
+}
+
+#display-quote p {
+  color: #004;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 1.5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: 18px;
+  line-height: 125%;
+}
+
+#display-quote #author {
+  color: #463535;
+  font-size: 1rem;
+  font-weight: 700;
+}

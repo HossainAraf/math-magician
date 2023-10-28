@@ -91,8 +91,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Functional Calculator
-- Random Quote Generator
+- Update style
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

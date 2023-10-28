@@ -1,0 +1,38 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 3% 1%;
+  margin-right: 6rem;
+  margin-left: 1rem;
+  width: 100%;
+}
+
+h1 {
+  color: rgb(174, 173, 173);
+  font-family: cursive;
+  margin-left: 2.5rem;
+  font-size: 2rem;
+}
+
+.nav .ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-right: 6rem;
+}
+
+.nav .ul li {
+  margin-right: 15%;
+  border-right: 0.8px solid rgb(174, 173, 173);
+  padding-right: 5%;
+}
+
+.nav .ul li a {
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.nav .ul li a:hover {
+  color: rgba(195, 13, 13, 0.753);
+  font-size: 1.3rem;
+}
