@@ -1,7 +1,7 @@
 .calculator {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 100%;
+  width: 100%;
 }
 
 #calculator-container {
@@ -13,10 +13,10 @@
 
 h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  padding-top: 15%;
+  padding-top: 1.5%;
   padding-right: 2%;
   color: #572c09;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .dispaly {
